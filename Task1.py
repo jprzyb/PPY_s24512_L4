@@ -1,0 +1,1 @@
+n = input("Enter a number till witch you want to calculate Catalan Numbers: ")
